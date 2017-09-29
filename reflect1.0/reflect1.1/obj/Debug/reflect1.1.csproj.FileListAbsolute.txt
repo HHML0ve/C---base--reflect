@@ -1,5 +1,0 @@
-F:\C#基础\reflect1.0\reflect1.1\bin\Debug\reflect1.1.exe.config
-F:\C#基础\reflect1.0\reflect1.1\bin\Debug\reflect1.1.exe
-F:\C#基础\reflect1.0\reflect1.1\bin\Debug\reflect1.1.pdb
-F:\C#基础\reflect1.0\reflect1.1\obj\Debug\reflect1.1.exe
-F:\C#基础\reflect1.0\reflect1.1\obj\Debug\reflect1.1.pdb
